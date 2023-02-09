@@ -1,0 +1,74 @@
+.logo{
+    height: 90px;
+    width: 194px;
+}
+
+.btn-primary{
+    background: #21B573;
+border-radius: 10px;
+}
+.container{
+    padding-bottom: 15px;
+}
+.col-md-5{
+    padding-top: 100px;
+}
+.containerone{
+    background-color: #F0FFF0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card-img-tope{
+    padding-top: 15px;
+    height: 105px;
+    width: 80px;
+}
+.containertwo{
+    background-color: #E5E5E5;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.containerthre{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #E5E5E5;
+}
+.card-img-topy{
+    padding-top: 15px;
+    width: 335px;
+    height: 235px;
+}
+.lastimg{
+    height: 130px;
+    width: 130px;
+   border-radius: 50%;
+
+}
+.containerfour{
+    padding-bottom: 30px;
+    padding-top: 30px; 
+    background-color:  #E5E5E5;
+}
+.test-on{
+    padding-bottom: 15px;
+}
+.containerlst{
+    background-color: #282531;
+    color: white;
+    width: 1540px;
+    height: 369px;
+    padding-left: 20px;
+}
+.bb{
+    padding-top: 20px;
+}
+footer{
+    padding-top: 95px;
+}
